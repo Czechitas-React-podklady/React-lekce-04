@@ -94,7 +94,7 @@ Vytvoř aplikaci, která bude zobrazovat seznam všech českých měst.
 
 8. Předpokládám, že komponentu máš hezky v samostatné složce. Přidej k ní do složky i její vlastní `style.css` a komponentu zkus trochu nastylovat, aby aplikace vypadala hezky.
 
-9. Bohužel máš náročného zákazníka, který se nespokojí jen s deseti největšími městy, ale chce vidě **všechna** česká města. Naštěstí si můžeš stáhnout [ZIP soubor](ceska-mesta.zip), který obsahuje seznam všech českých měst aktuální k 1. lednu 2020. Naštěstí zákazník není zase tak náročný, aby potřeboval nejnovější údaje :)
+9. Bohužel máš náročného zákazníka, který se nespokojí jen s deseti největšími městy, ale chce vidě **všechna** česká města. Naštěstí si můžeš stáhnout [ZIP soubor](https://github.com/Czechitas-React-podklady/React-lekce-05/raw/main/cviceni-03-mesta/ceska-mesta.zip), který obsahuje seznam všech českých měst aktuální k 1. lednu 2020. Naštěstí zákazník není zase tak náročný, aby potřeboval nejnovější údaje :)
 
 10. Soubor `cz-cities.js` ze ZIPu si zkopíruj do složky `src` v našem projektu a podívej se, jak uvnitř vypadá.
 

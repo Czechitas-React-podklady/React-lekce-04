@@ -2,7 +2,7 @@
 
 Vytvoř aplikaci, která bude zobrazovat seznam epizod tvého oblíbeného podcastu.
 
-1. Jako podklady pro toto cvičení si stáhni [nastylovanou stránku](podcasty-zadani.zip). Obsahuje ukázkové HTML a CSS, jak má výsledná stránka vypadat. Z tohoto HTML a CSS si můžeš vykousnout, cokoliv budeš potřebovat a použít ve svých komponentách.
+1. Jako podklady pro toto cvičení si stáhni [nastylovanou stránku](https://github.com/Czechitas-React-podklady/React-lekce-05/raw/main/cviceni-04-podcasty/podcasty-zadani.zip). Obsahuje ukázkové HTML a CSS, jak má výsledná stránka vypadat. Z tohoto HTML a CSS si můžeš vykousnout, cokoliv budeš potřebovat a použít ve svých komponentách.
 
 2. Známým postupem si založ nový React projekt pomocí `create-czechitas-app` a nazvi ho třeba `podcasty`.
 
