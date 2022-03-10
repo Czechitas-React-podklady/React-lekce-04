@@ -15,7 +15,7 @@ Vyzkoušej si, jak funguje v Reactu práce s naimportovanými obrázky.
 
 4. Komponenta by měla přijímat dvě props: `name` a `gender`. **Name** bude jméno osoby, **gender** může obsahovat hodnotu `f` (female/žena) nebo `m` (male/muž).
 
-5. Stáhni si [ZIP s připravenými obrázky](https://github.com/Czechitas-React-podklady/React-lekce-04/raw/main/cviceni-01-osoby/osoby-ikony.zip).
+5. Stáhni si [ZIP s připravenými obrázky](https://github.com/Czechitas-React-podklady/React-lekce-04/raw/main/cviceni-02-osoby/osoby-ikony.zip).
 
 	Kdyby ty stejné obrázky používalo více komponent, umístili bychom je do složky `img` uvnitř složky `src` celého projektu. Protože ale naše konkrétní obrázky jsou relevantní jen pro pomponentu `Person`, bude lepší, když je umístíme přímo do složky komponenty. Ideálně si ve složce s komponentou vytvoř složku `img` nebo `images` a do ní zkopíruj obrázky ze ZIPu.
 
