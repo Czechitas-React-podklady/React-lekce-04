@@ -4,7 +4,7 @@ Vyzkoušej si, jak funguje v Reactu práce s obrázky ve složce `assets`.
 
 1. Známým postupem si založ nový React projekt pomocí `create-czechitas-app` a nazvi ho třeba `zvirata`.
 
-2. Ve složce `src` uvnitř projektu si vytvoř složku `assets`. Stáhni si [ZIP s připravenými obrázky](https://github.com/Czechitas-React-podklady/React-lekce-05/raw/main/cviceni-02-zvirata/zvirata-podklady.zip) a obrázky ze ZIPu zkopíruj do vytvořené složky `assets`.
+2. Ve složce `src` uvnitř projektu si vytvoř složku `assets`. Stáhni si [ZIP s připravenými obrázky](https://github.com/Czechitas-React-podklady/React-lekce-04/raw/main/cviceni-02-zvirata/zvirata-podklady.zip) a obrázky ze ZIPu zkopíruj do vytvořené složky `assets`.
 
 3. V samostatné složce vytvoř komponentu `Animal`, která bude generovat následující jednoduchý kód:
 
