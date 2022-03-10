@@ -1,4 +1,4 @@
-# Cvičení 5 - Žárovka
+# Cvičení 1 - Žárovka
 
 Vytvoř aplikaci s komponentou `Bulb`, která se podle předaných props buď rozsvítí nebo zhasne.
 
@@ -7,10 +7,10 @@ Vytvoř aplikaci s komponentou `Bulb`, která se podle předaných props buď ro
 1. V **samostatné složce** vytvoř novou komponentu `Bulb`. Její obsah bude jednoduchý, půjde pouze o jeden `<div>` s CSS třídou `bulb`.
 
 	```html
-	<div class="bulb"></div>
+	<div className="bulb"></div>
 	```
 
-1. Stáhni si [YIP s připravenými styly a obrázky](https://github.com/Czechitas-React-podklady/React-lekce-04/raw/main/cviceni-01-zarovka/zarovka-zadani.zip) pro rozsvícenou a zhasnutou žárovku a přidej je do složky komponenty `Bulb`.
+1. Stáhni si [ZIP s připravenými styly a obrázky](https://github.com/Czechitas-React-podklady/React-lekce-04/raw/main/cviceni-01-zarovka/zarovka-zadani.zip) pro rozsvícenou a zhasnutou žárovku a přidej je do složky komponenty `Bulb`.
 
 	Styly týkající se konrétně žárovky nech v CSS souboru komponenty. Styly týkající se stránky (html, body, apod.) ze souboru vyjmi a přepiš jimi obsah hlavního CSS souboru `style.css` naší aplikace.
 

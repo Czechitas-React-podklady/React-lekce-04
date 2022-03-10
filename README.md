@@ -8,7 +8,7 @@ Tento repozitář obsahuje podklady a cvičení pro 4. lekci kurzu React od Czec
 
 ## Podmíněné stylování
 
-- [Cvičení 1 - Osoby](./cviceni-01-zarovka/README.md)
+- [Cvičení 1 - Žárovka](./cviceni-01-zarovka/README.md)
 
 ## Import obrázků a podmíněné zobrazení
 
